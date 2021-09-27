@@ -1,5 +1,5 @@
 import java.util.Scanner;
-// This comment
+
 public class Prime_Number {
 	
 	void check()
